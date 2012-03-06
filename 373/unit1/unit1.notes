@@ -1,0 +1,30 @@
+in problem #17 why is the % len(p) there? isn't that unnecessary?
+
+3
+6
+9
+15
+
+w,x,y,z
+wx
+wy
+wz
+xy
+xz
+
+a,b,c,d,e
+ab
+ac
+ad
+ae
+bc
+bd
+be
+cd
+ce
+de
+
+n + (n-1) + (n-2) + ... + 1
+(n(n+1))/2
+(n^2 + n)/2
+
